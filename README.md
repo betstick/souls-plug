@@ -8,19 +8,30 @@ Most things are importing without issue. Some odds and ends are missing textures
 
 # TODO (in order of realism/priority)
 add mesh exporting support.
+
 add animation importing support. its in the works.
+
 add material export support.
+
 get the code licensing in order.
+
 clean up the code. its terrible.
+
 improve performance. its also terrible.
+
 add animation exporting support. this may not be possible.
+
 switch off C# to C++ once possible.
 
 # How to use:
 You need to have Blender 2.93 LTS set up. I will only support the latest LTS releases for now.
+
 Install the souls-but-hole.zip file into Blender as an addon. Make sure to configure the settings to point to the correct locations.
+
 Compile souls-tongue from source.
+
 Make sure you can see the Blender System Console (the CMD on Windows). Lots of useful feedback and info.
+
 Somewhere hidden in Blender is a SoulsPlug menu, punch in the character ID, and hit "Import". If you're lucky, you'll get a pretty model.
 
 # Credits (people who's code i stole)
